@@ -30,6 +30,8 @@ namespace Data.Repositories
         //    var dfd = DbContext.vwUsers.ToList();
         //}
 
+
+
         public Task<User> GetByUserAndPass(string username, string password, CancellationToken cancellationToken)
         {            
             var passwordHash = SecurityHelper.GetSha256Hash(password);
