@@ -1,0 +1,14 @@
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Data.dll
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Data.pdb
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.dll
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.pdb
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Common.dll
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Entites.dll
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Entites.pdb
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\bin\Debug\netcoreapp3.1\Common.pdb
+G:\RndSiurce\ApiTestEntityFramwork\ApiEntity\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Release\TMS.Logging.dll
+D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Release\TMS.Logging.pdb
+D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Release\log4net.dll
+D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Release\log4net.xml
+D:\PNA\TMS\Project\TMS\TMS.Logging\obj\Release\TMS.Logging.dll
+D:\PNA\TMS\Project\TMS\TMS.Logging\obj\Release\TMS.Logging.pdb
+D:\PNA\TMS\Project\TMS\TMS.Logging\obj\Release\TMS.Logging.csprojResolveAssemblyReference.cache

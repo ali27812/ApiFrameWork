@@ -1,0 +1,6 @@
+2020-09-30T13:00:53.7893040+03:30 0HM34B029EUSA:00000001 [INF] Request starting HTTP/1.1 GET http://localhost:44378/swagger/index.html   (ca22a1cb)
+2020-09-30T13:00:55.2163696+03:30 0HM34B029EUSA:00000001 [INF] Entity Framework Core "2.1.14-servicing-32113" initialized '"ApplicationDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2020-09-30T13:00:55.4823176+03:30 0HM34B029EUSA:00000001 [INF] Request finished in 1969.404ms 200 text/html (791a596a)
+2020-09-30T13:00:56.3856196+03:30 0HM34B029EUSA:00000002 [INF] Request starting HTTP/1.1 GET http://localhost:44378/swagger/v1/swagger.json   (ca22a1cb)
+2020-09-30T13:00:56.3863122+03:30 0HM34B029EUSA:00000002 [INF] Entity Framework Core "2.1.14-servicing-32113" initialized '"ApplicationDbContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2020-09-30T13:00:56.9495486+03:30 0HM34B029EUSA:00000002 [INF] Request finished in 563.9314ms 200 application/json;charset=utf-8 (791a596a)

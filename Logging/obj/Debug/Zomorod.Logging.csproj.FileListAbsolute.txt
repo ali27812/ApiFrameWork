@@ -1,0 +1,45 @@
+E:\Sohato\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+E:\Sohato\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+E:\Sohato\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.dll
+E:\Sohato\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.xml
+E:\Sohato\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+E:\Sohato\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.dll
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.xml
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+C:\Users\PNA_Server\Desktop\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.dll
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.xml
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+D:\Sohato\new\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+E:\moi\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+E:\moi\SwitchSolution\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+E:\moi\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.dll
+E:\moi\SwitchSolution\Zomorod.Logging\bin\Debug\log4net.xml
+E:\moi\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+E:\moi\SwitchSolution\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+E:\moi\SwitchSolution\Zomorod.Logging\obj\Debug\Zomorod.Logging.csprojResolveAssemblyReference.cache
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\bin\Debug\log4net.dll
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\bin\Debug\log4net.xml
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+F:\Programming\Project\PNA\EnBank_Yaghut\ENBank_YaghutWindowsService\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\bin\Debug\log4net.dll
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\bin\Debug\log4net.xml
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\obj\Debug\Zomorod.Logging.csprojResolveAssemblyReference.cache
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+F:\Programming\Project\PNA\NovinInsurance\NovinInsurance (Windows Service)\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\bin\Debug\TMS.Logging.dll
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\bin\Debug\TMS.Logging.pdb
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\bin\Debug\log4net.dll
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\bin\Debug\log4net.xml
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\obj\Debug\Zomorod.Logging.csprojResolveAssemblyReference.cache
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\obj\Debug\TMS.Logging.dll
+D:\Programming\Project\Services\NovinInsurance\NovinInsurance (Windows Form)\Zomorod.Logging\obj\Debug\TMS.Logging.pdb
