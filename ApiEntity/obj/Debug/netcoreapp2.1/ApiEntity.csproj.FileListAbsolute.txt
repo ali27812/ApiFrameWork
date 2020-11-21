@@ -50,7 +50,6 @@ E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\bin\Debug\netcoreapp2.1\
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csprojAssemblyReference.cache
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.AssemblyInfoInputs.cache
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.AssemblyInfo.cs
-E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csproj.CoreCompileInputs.cache
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorAssemblyInfo.cache
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorAssemblyInfo.cs
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorTargetAssemblyInfo.cache
@@ -58,3 +57,6 @@ E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.dll
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.pdb
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.genruntimeconfig.cache
+E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml
+E:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csproj.CoreCompileInputs.cache

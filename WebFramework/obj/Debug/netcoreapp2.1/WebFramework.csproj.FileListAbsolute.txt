@@ -34,3 +34,5 @@ E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CopyComplete
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.dll
 E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.pdb
+E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\bin\Debug\netcoreapp2.1\System.Web.Mvc.dll
+E:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\bin\Debug\netcoreapp2.1\System.Web.Mvc.xml

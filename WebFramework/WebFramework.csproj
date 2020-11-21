@@ -21,5 +21,10 @@
   <ItemGroup>
     <ProjectReference Include="..\Services\Services.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>..\packages\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 
 </Project>
