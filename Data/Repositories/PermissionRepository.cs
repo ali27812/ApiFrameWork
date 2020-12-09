@@ -1,10 +1,14 @@
 ﻿using Common;
 using Data.Contracts;
 using Entites;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Data.Repositories
 {
@@ -17,6 +21,9 @@ namespace Data.Repositories
         {
             _log = logger;
         }
-
+        public Task<Permission> GetById(int id, CancellationToken cancellationToken)
+        {
+            return Table.Where(p => p.Id == id).SingleOrDefaultAsync(cancellationToken);
+        }
     }
 }

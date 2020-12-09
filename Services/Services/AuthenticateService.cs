@@ -28,14 +28,14 @@ namespace Services.Services
                 var role = _roleRepository.GetById(user.RoleId);
                 if (role != null)
                 {
-                    var identity = new ClaimsIdentity(new[]
-                    {
-                            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-                            new Claim(ClaimTypes.Surname, user.FullName ?? ""),
-                            new Claim(ClaimTypes.Name, user.UserName ?? ""),
-                            new Claim(ClaimTypes.Sid, role.Id.ToString() ?? ""),
-                            new Claim(ClaimTypes.Role, role.Name ?? "")
-                        }, "ApplicationCookie");
+                    //var identity = new ClaimsIdentity(new[]
+                    //{
+                    //        new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                    //        new Claim(ClaimTypes.Surname, user.FullName ?? ""),
+                    //        new Claim(ClaimTypes.Name, user.UserName ?? ""),
+                    //        new Claim(ClaimTypes.Sid, role.Id.ToString() ?? ""),
+                    //        new Claim(ClaimTypes.Role, role.Name ?? "")
+                    //    }, "ApplicationCookie");
 
                     //var rolePermissionRepository = new RolePermissionTableRepository();
                     //var rolePermissions = rolePermissionRepository.Select().Where(t => t.RoleId == role.Id).ToList();
@@ -80,7 +80,7 @@ namespace Services.Services
                     //var ctx = Request.GetOwinContext();
                     //var authManager = ctx.Authentication;
                     //authManager.SignIn(identity);
-                    //return Redirect(GetRedirectUrl(""));
+                    ////return Redirect(GetRedirectUrl(""));
 
 
                 }
