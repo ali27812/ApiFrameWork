@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj": {}
+    "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj": {}
   },
   "projects": {
-    "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj": {
+    "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj",
+        "projectUniqueName": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj",
+        "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\obj\\",
+        "outputPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,10 +26,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -52,13 +59,13 @@
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
             "Pluralize.NET": {
               "target": "Package",
               "version": "[1.0.2, )"
-            },
-            "Serilog.Extensions.Logging.File": {
-              "target": "Package",
-              "version": "[2.0.0, )"
             }
           },
           "imports": [
@@ -67,25 +74,30 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj": {
+    "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj",
+        "projectUniqueName": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj",
+        "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\obj\\",
+        "outputPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,13 +105,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj": {
-                "projectPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj"
+              "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj": {
+                "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj"
+              },
+              "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj": {
+                "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj"
               }
             }
           }
@@ -112,6 +129,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -130,25 +148,30 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj": {
+    "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj",
+        "projectUniqueName": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj",
         "projectName": "Entites",
-        "projectPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj",
+        "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\Entites.csproj",
         "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
-        "outputPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\obj\\",
+        "outputPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Entites\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -156,13 +179,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj": {
-                "projectPath": "E:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj"
+              "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj": {
+                "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\Common\\Common.csproj"
               }
             }
           }
@@ -175,6 +200,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -189,11 +215,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

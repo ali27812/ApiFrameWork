@@ -1,9 +1,0 @@
-C:\Users\shirkhani\Desktop\Ramin\Logging\bin\Release\Logging.dll
-C:\Users\shirkhani\Desktop\Ramin\Logging\bin\Release\Logging.pdb
-C:\Users\shirkhani\Desktop\Ramin\Logging\bin\Release\log4net.dll
-C:\Users\shirkhani\Desktop\Ramin\Logging\bin\Release\log4net.xml
-C:\Users\shirkhani\Desktop\Ramin\Logging\obj\Release\Logging.csprojAssemblyReference.cache
-C:\Users\shirkhani\Desktop\Ramin\Logging\obj\Release\Logging.csproj.CoreCompileInputs.cache
-C:\Users\shirkhani\Desktop\Ramin\Logging\obj\Release\Logging.csproj.CopyComplete
-C:\Users\shirkhani\Desktop\Ramin\Logging\obj\Release\Logging.dll
-C:\Users\shirkhani\Desktop\Ramin\Logging\obj\Release\Logging.pdb

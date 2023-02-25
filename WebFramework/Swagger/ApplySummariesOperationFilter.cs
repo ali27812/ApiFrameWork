@@ -11,7 +11,7 @@ namespace WebFramework.Swagger
     public class ApplySummariesOperationFilter : IOperationFilter
     {
         public void Apply(Operation operation, OperationFilterContext context)
-        {
+        {            
             var controllerActionDescriptor = context.ApiDescription.ActionDescriptor as ControllerActionDescriptor;
             if (controllerActionDescriptor == null) return;
 

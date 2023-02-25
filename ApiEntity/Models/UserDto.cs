@@ -23,6 +23,9 @@ namespace ApiEntity.Models
         public string FullName { get; set; }
         public int Age { get; set; }
         public GenderType Gender { get; set; }
+        [Required]
+        public int RoleId { get; set; }
+
 
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {

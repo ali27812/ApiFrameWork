@@ -1,6 +1,0 @@
-D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Debug\TMS.Logging.dll
-D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Debug\TMS.Logging.pdb
-D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Debug\log4net.dll
-D:\PNA\TMS\Project\TMS\TMS.Logging\bin\Debug\log4net.xml
-D:\PNA\TMS\Project\TMS\TMS.Logging\obj\Debug\TMS.Logging.dll
-D:\PNA\TMS\Project\TMS\TMS.Logging\obj\Debug\TMS.Logging.pdb

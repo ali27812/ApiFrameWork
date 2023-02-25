@@ -29,7 +29,7 @@ namespace ApiEntity
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public IServiceProvider ConfigureServices(IServiceCollection services)
-        {
+        {            
             //services.AddDbContext<ApplicationDbContext>(options =>
             //{
             //    options.UseSqlServer(Configuration.GetConnectionString("SqlServer"));
@@ -47,9 +47,9 @@ namespace ApiEntity
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
-            string Date = DateTime.Now.ToString("dd-MM-yyyy");
-            string addres = AppDomain.CurrentDomain.BaseDirectory + "\\LogFolder" + "\\ApiEntity" + Date + ".txt";
-            loggerFactory.AddFile(addres);
+            //string Date = DateTime.Now.ToString("dd-MM-yyyy");
+            //string addres = AppDomain.CurrentDomain.BaseDirectory + "\\LogFolder" + "\\ApiEntity" + Date + ".txt";
+            //loggerFactory.AddFile(addres);
             app.UseCustomExceptionHandler();
             if (env.IsDevelopment())
             {
