@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace ApiEntity.Models
 {
+
     public class GetSpecialCodeModel
     {
         public string SpecialCode { get; set; }
