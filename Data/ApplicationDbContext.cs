@@ -18,14 +18,23 @@ namespace Data
         {
 
         }
-        //defination propertie for call view that vwUsers=storeprocejerName
-        //public DbQuery<vwUser> vwUsers { get; set; }
+        #region "defination propertie for call view "
+
+        /// <summary>
+        ///There is a view with the same name for each property in the database
+        /// </summary>
+        public DbQuery<vwUser> vwTests { get; set; }
+        public DbQuery<vwRole> vwRoles { get; set; }
+        public DbQuery<vwUserRole> vwUserRoles { get; set; }
+
+        #endregion
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
             var entitiesAssembly = typeof(IEntity).Assembly;
             //expose view to modelBuilder
-            //modelBuilder.Query<vwUser>().ToView("vwUser");
+            //modelBuilder.Query<vwRole>().ToView("vwRole");
             modelBuilder.RegisterAllEntities<IEntity>(entitiesAssembly);
             modelBuilder.RegisterEntityTypeConfiguration(entitiesAssembly);
             modelBuilder.AddRestrictDeleteBehaviorConvention();

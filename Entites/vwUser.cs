@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entites
 {
-    public class vwUser
+    public class vwUser 
     {        
         public int Id { get; set; }
         public string UserName { get; set; }

@@ -2,11 +2,12 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Data.Contracts
 {
-    public interface IVwUserRepository : IVwRepository<vwUser>
+    public interface IVwUserRepository //: IVwRepository<vwUser>
     {
-        void GetStoreProce();
+        Task<IEnumerable<vwUser>> GetAllEntities();
     }
 }

@@ -15,6 +15,9 @@ namespace Data.Repositories
     public class PermissionRepository : Repository<Permission>, IPermissionRepository, IScopedDependency
     {
         private readonly ILogger<PermissionRepository> _log;
+
+      
+
         //seriLog
         public PermissionRepository(ApplicationDbContext dbContext, ILogger<PermissionRepository> logger)
             : base(dbContext)

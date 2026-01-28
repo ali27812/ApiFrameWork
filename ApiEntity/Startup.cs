@@ -13,6 +13,8 @@ using Entites;
 using WebFramework.CustomMapping;
 using WebFramework.Swagger;
 using Microsoft.Extensions.Logging;
+using Data.Contracts;
+using Data.Repositories;
 
 namespace ApiEntity
 {
@@ -29,7 +31,8 @@ namespace ApiEntity
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public IServiceProvider ConfigureServices(IServiceCollection services)
-        {            
+        {
+            //services.AddScoped<IUnitOfWork, UnitOfWork>();
             //services.AddDbContext<ApplicationDbContext>(options =>
             //{
             //    options.UseSqlServer(Configuration.GetConnectionString("SqlServer"));

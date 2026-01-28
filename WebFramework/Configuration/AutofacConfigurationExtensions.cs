@@ -39,6 +39,7 @@ namespace WebFramework.Configuration
                 .AssignableTo<ISingletonDependency>()
                 .AsImplementedInterfaces()
                 .SingleInstance();
+            
         }
 
         public static IServiceProvider BuildAutofacServiceProvider(this IServiceCollection services)

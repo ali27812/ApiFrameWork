@@ -19,18 +19,22 @@ namespace Data.Repositories
         //seriLog
         private readonly ILogger<UserRepository> _log;
         //seriLog
-        public UserRepository(ApplicationDbContext dbContext, ILogger<UserRepository> logger)
+        public UserRepository(ApplicationDbContext dbContext,ILogger<UserRepository> logger)
             : base(dbContext)
         {
             _log = logger;
         }
+
+       
+
         //method for implement call view interface
-        //public void GetStoreProce()
-        //{
-        //    var dfd = DbContext.vwUsers.ToList();
-        //}
+        public void GetStoreProce()
+        {
 
-
+            var dfd = DbContext.vwTests.ToList();
+            var dfdd = DbContext.vwRoles.ToList();
+            var ffdfdf = DbContext.vwUserRoles.ToList();
+        }
 
         public Task<User> GetByUserAndPass(string username, string password, CancellationToken cancellationToken)
         {            

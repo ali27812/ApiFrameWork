@@ -24,5 +24,6 @@ F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Com
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.sourcelink.json
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.dll
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Common\obj\Debug\netcoreapp2.1\Common.pdb

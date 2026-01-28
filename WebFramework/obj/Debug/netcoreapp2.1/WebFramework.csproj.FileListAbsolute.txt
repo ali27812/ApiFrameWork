@@ -55,6 +55,7 @@ F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfoInputs.cache
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.AssemblyInfo.cs
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CoreCompileInputs.cache
-F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.csproj.CopyComplete
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.sourcelink.json
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFrame.0CB53944.Up2Date
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.dll
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\WebFramework\obj\Debug\netcoreapp2.1\WebFramework.pdb

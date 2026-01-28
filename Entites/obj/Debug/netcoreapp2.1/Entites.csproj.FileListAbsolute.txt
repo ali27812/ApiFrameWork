@@ -33,6 +33,7 @@ F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\En
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.AssemblyInfoInputs.cache
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.AssemblyInfo.cs
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.csproj.CoreCompileInputs.cache
-F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.csproj.CopyComplete
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.sourcelink.json
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.csproj.Up2Date
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.dll
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\Entites\obj\Debug\netcoreapp2.1\Entites.pdb

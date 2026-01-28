@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Common.Utilities
 {
@@ -118,6 +119,10 @@ namespace Common.Utilities
             foreach (Type type in types)
                 modelBuilder.Entity(type);
         }
+       
+
+
 
     }
+   
 }

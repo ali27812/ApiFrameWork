@@ -15,6 +15,7 @@ namespace Data.Repositories
     public class Repository<TEntity> : IRepository<TEntity>
         where TEntity : class, IEntity
     {
+
         protected readonly ApplicationDbContext DbContext;
         public DbSet<TEntity> Entities { get; }
         public virtual IQueryable<TEntity> Table => Entities;

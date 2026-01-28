@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4KfjVKsUp8vbFpJZHby5QD+0FZ7szHjQEciyi43GALyt2b4dW9Kold5yjKos1jrwM0JIHt63kedA1NGeb8WH5g==",
+  "dgSpecHash": "hONRBVtk2a0=",
   "success": true,
   "projectFilePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
   "expectedPackageFiles": [
@@ -226,5 +226,114 @@
     "C:\\Users\\ali\\.nuget\\packages\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
     "C:\\Users\\ali\\.nuget\\packages\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.AspNetCore.Authentication.JwtBearer' 2.1.2 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q7cg-43mg-qp69",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-3w5p-jhp5-c29q",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5633-f33j-c6f7",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g5vf-38cp-4px9",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vgwq-hfqc-58wv",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
+      "projectPath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "warningLevel": 1,
+      "filePath": "F:\\pnaProject\\ApiTestEntityFramwork\\ApiEntity\\WebFramework\\WebFramework.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
 }

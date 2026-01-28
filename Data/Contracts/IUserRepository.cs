@@ -10,7 +10,7 @@ namespace Data.Contracts
     public interface IUserRepository : IRepository<User>
     {
         //interface for call view
-        //void GetStoreProce();
+        void GetStoreProce();
         Task<User> GetByUserAndPass(string username, string password, CancellationToken cancellationToken);
 
         Task AddAsync(User user, string password, CancellationToken cancellationToken);

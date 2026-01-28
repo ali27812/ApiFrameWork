@@ -17,7 +17,7 @@ namespace ApiEntity.Controllers.v2
     [ApiVersion("2")]
     public class UserController : v1.UserController
     {
-        public UserController(IUserRepository userRepository, IJwtService jwtService, ILogger<UserController> logger) : base(userRepository, jwtService,logger)
+        public UserController(IUnitOfWork iunitOfWork,IUserRepository userRepository, IJwtService jwtService, ILogger<UserController> logger) : base(iunitOfWork,userRepository, jwtService,logger)
         {
         }      
         public override Task<ApiResult<User>> Create(UserDto userDto, CancellationToken cancellationToken)

@@ -944,7 +944,10 @@
           "Pluralize.NET": "1.0.2"
         },
         "runtime": {
-          "Common.dll": {}
+          "Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Common.dll": {}
@@ -957,7 +960,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.4"
         },
         "runtime": {
-          "Data.dll": {}
+          "Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Data.dll": {}
@@ -968,7 +974,10 @@
           "Common": "1.0.0"
         },
         "runtime": {
-          "Entites.dll": {}
+          "Entites.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Entites.dll": {}
@@ -981,7 +990,10 @@
           "System.IdentityModel.Tokens.Jwt": "5.3.0"
         },
         "runtime": {
-          "Services.dll": {}
+          "Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Services.dll": {}
@@ -1005,7 +1017,10 @@
           "Swashbuckle.AspNetCore.Filters": "4.5.2"
         },
         "runtime": {
-          "WebFramework.dll": {}
+          "WebFramework.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "WebFramework.dll": {}

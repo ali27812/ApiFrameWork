@@ -89,8 +89,9 @@ F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csproj.CoreCompileInputs.cache
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorAssemblyInfo.cache
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorAssemblyInfo.cs
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.sourcelink.json
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.RazorTargetAssemblyInfo.cache
-F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csproj.CopyComplete
+F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.csproj.Up2Date
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.dll
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.pdb
 F:\pnaProject\ApiTestEntityFramwork\ApiEntity\ApiEntity\obj\Debug\netcoreapp2.1\ApiEntity.genruntimeconfig.cache
