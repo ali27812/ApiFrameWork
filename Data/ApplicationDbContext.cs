@@ -66,6 +66,7 @@ namespace Data
             return base.SaveChangesAsync(cancellationToken);
         }
 
+
         private void _cleanString()
         {
             var changedEntities = ChangeTracker.Entries()
